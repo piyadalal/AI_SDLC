@@ -1,6 +1,10 @@
 # Ignore Demo folder
 Demo_Labweek_June/
+# macOS system files
+.DS_Store
 
+# IDE files (IntelliJ / PyCharm / WebStorm)
+.idea/
 # Ignore all PowerPoint files
 *.pptx
 
