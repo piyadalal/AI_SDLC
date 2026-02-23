@@ -1,0 +1,14 @@
+# Ignore Demo folder
+Demo_Labweek_June/
+
+# Ignore all PowerPoint files
+*.pptx
+
+# Ignore JIRA API keys file
+JIRA_API_KEYS.pdf
+
+# Ignore all PDF files
+*.pdf
+
+# Ignore all Word documents
+*.docx
